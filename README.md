@@ -41,6 +41,7 @@ I'm Parmis, a cognitive neuroscience researcher 🧠 (postdoc) and educator dedi
   <img src="https://github.com/devicons/devicon/blob/master/icons/spyder/spyder-original-wordmark.svg" title="spyder" alt="spyder" width="40" height="40"/>&nbsp;
 </div>
 
+
 <details>
 <summary>My top languages</summary>
   
@@ -53,6 +54,8 @@ I'm Parmis, a cognitive neuroscience researcher 🧠 (postdoc) and educator dedi
 |     5| Matlab    |
 
 </details>
+
+---
 
 - 🧠 I have experience in fMRI data collection, cleaning, processing and analysis
 - 📊 I have experience in data analysis:  Structural Equation Modeling (SEM), Generalized Linear Mixed Models (GLMM), Canonical Correlation Analysis (CCA), Latent Profile Analysis (LPA), Factor Analyses, Principal component analysis (PCA), Network Analysis, and Random Forest Analysis
