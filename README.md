@@ -4,7 +4,7 @@
 </div>
 
 <div id="badges">
-  <a href="www.linkedin.com/in/parmis-khosravi">
+  <a href="https://www.linkedin.com/in/parmis-khosravi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://orcid.org/0000-0001-6549-2905">
