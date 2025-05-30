@@ -7,7 +7,7 @@
   <a href="www.linkedin.com/in/parmis-khosravi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://orcid.org/0000-0002-2833-3179">
+  <a href="https://orcid.org/0000-0001-6549-2905">
     <img src="https://img.shields.io/badge/ORCiD-green?style=for-the-badge&logo=ORCiD&logoColor=white" alt="ORCiD Badge"/>
   </a>
 </div>
