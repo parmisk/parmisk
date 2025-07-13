@@ -24,7 +24,7 @@
 </h1>
 
 
-I'm Parmis, a computational cognitive neuroscientist 🧠 dedicated to advancing mental health science. I have experience in multimodal neuroimaging and large-scale data integration. I am adept at cross-disciplinary collaboration, data pipeline development, and statistical modeling to gain actionable insights in mental health and cognitive science. My recent projects focus on translational research, exploring neural circuits that explain the heterogeneities of mood disorders. I take a within-person methodological approach to improve phenotyping and contribute to more precise interventions. <img width="468" height="64" alt="image" src="https://github.com/user-attachments/assets/5da77c2b-06d8-495b-b7cd-f271a7c2d23d" />
+I'm Parmis, a computational cognitive neuroscientist 🧠 dedicated to advancing mental health science. I have experience in multimodal neuroimaging and large-scale data integration. I am adept at cross-disciplinary collaboration, data pipeline development, and statistical modeling to gain actionable insights in mental health and cognitive science. My recent projects focus on translational research, exploring neural circuits that explain the heterogeneities of mood disorders. I take a within-person methodological approach to improve phenotyping and contribute to more precise interventions. 
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
