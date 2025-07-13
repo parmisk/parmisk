@@ -51,16 +51,17 @@ I'm Parmis, a computational cognitive neuroscientist 🧠 dedicated to advancing
 |     2| Python    |
 |     3| Bash      |
 |     4| JavaScript|
-|     5| Matlab    |
+|     5| SQL       |
+|     6| Matlab    |
 
 </details>
 
 ---
 
-- 🧠 I have experience in fMRI data collection, cleaning, processing and analysis
-- 📊 I have experience in data analysis:  Structural Equation Modeling (SEM), Generalized Linear Mixed Models (GLMM), Canonical Correlation Analysis (CCA), Latent Profile Analysis (LPA), Factor Analyses, Principal component analysis (PCA), Network Analysis, and Random Forest Analysis
+- 🧠 I have experience in fMRI data collection, wrangling, processing and analysis
+- 📊 I have experience in data analysis: Advance modeling and inferences (GLMM, SEM, LPA, ANOVA, CCA), time series & longitudinal analysis (Linear Mixed Model, Growth Curve Modeling), dimensionality reduction (PCA, EFA/CFA, MDS, discriminant function analysis), predictive modeling (e.g., Random Forest, cross validation – K-fold, LOOCV), psychometric & measurement (signal detection theory, reliability assessment)
 - 🔭 I’m currently working on multiple exciting projects
-- 🌱 I’m currently learning Git and SQL
+- 🌱 I’m currently learning Git
 
 
 <!-- TO DO: add more details about what I am currently working on and learning, refine the analysis section and add software section, and write a better fun fact section -->
