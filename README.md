@@ -24,7 +24,7 @@
 </h1>
 
 
-I'm Parmis, a computational cognitive neuroscientist 🧠 dedicated to advancing mental health science. I have experience in multimodal neuroimaging and large-scale data integration. I am adept at cross-disciplinary collaboration, data pipeline development, and statistical modeling to gain actionable insights in mental health and cognitive science. My recent projects focus on translational research, exploring neural circuits that explain the heterogeneities of mood disorders. I take a within-person methodological approach to improve phenotyping and contribute to more precise interventions. 
+I'm Parmis, a computational cognitive neuroscientist 🧠 dedicated to advancing mental health science. I have experience with developing cognitive assessments, multimodal data pipelines, and large-scale data integration. I am adept at cross-disciplinary collaboration, data pipeline development, and statistical modeling to gain actionable insights in mental health and cognitive science. My recent projects focus on translational research, exploring neural circuits that explain the heterogeneities of mood disorders. I take a within-person methodological approach to improve phenotyping and contribute to more precise interventions. 
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -45,23 +45,26 @@ I'm Parmis, a computational cognitive neuroscientist 🧠 dedicated to advancing
 <details>
 <summary>My top languages</summary>
   
-| Rank | Languages |
-|-----:|-----------|
-|     1| R         |
-|     2| Python    |
-|     3| Bash      |
-|     4| JavaScript|
-|     5| SQL       |
-|     6| Matlab    |
+| Rank | Languages     |
+|-----:|-------------- |
+|     1| R             |
+|     2| Python        |
+|     3| Bash          |
+|     4| JavaScript    |
+|     5| SQL (learning)|
+|     6| Matlab        |
 
 </details>
 
 ---
-
-- 🧠 I have experience in fMRI data collection, wrangling, processing and analysis
-- 📊 I have experience in data analysis: Advance modeling and inferences (GLMM, SEM, LPA, ANOVA, CCA), time series & longitudinal analysis (Linear Mixed Model, Growth Curve Modeling), dimensionality reduction (PCA, EFA/CFA, MDS, discriminant function analysis), predictive modeling (e.g., Random Forest, cross validation – K-fold, LOOCV), psychometric & measurement (signal detection theory, reliability assessment)
-- 🔭 I’m currently working on multiple exciting projects
-- 🌱 I’m currently learning Git
+Research Interests and Experience 
+- 🧠 Cognitive assessment
+- Scientific programming
+- 📊 Data infrastructure
+- Neuroimaging
+- 📊 data analysis: Advanced modeling and inferences
+  
+- 🌱 Interested in scientific software engineering and continually expanding my software development skills.
 
 
 <!-- TO DO: add more details about what I am currently working on and learning, refine the analysis section and add software section, and write a better fun fact section -->
